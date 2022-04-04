@@ -1,0 +1,6 @@
+pandas
+osmnx
+networkx
+xlsxwriter
+fastkml
+wheel
