@@ -3,4 +3,5 @@ osmnx
 networkx
 xlsxwriter
 fastkml
+jupyter
 wheel
